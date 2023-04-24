@@ -1,1 +1,1 @@
-# seas-6402-final-project
+# SEAS 6402 Final Project
